@@ -1,4 +1,4 @@
-# Recordar
+# Recordar 1
 en Git se manjan 3 estatus
 1. Lo local: lo que se encuentra en la computadora lical
 2. El ecenario: es la ecena que sera pasada al repositorio al realizar un comit
