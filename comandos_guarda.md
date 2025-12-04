@@ -82,3 +82,7 @@ comando para crear cargar la rama al repositorio remoto
 ```sh
 git push --set-upstream origin feature-branch
 ```
+comando para unir dos ramas
+```sh
+git merge main
+```
