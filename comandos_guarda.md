@@ -78,3 +78,7 @@ al mismo tiempo
 ```sh
 git checkout -b feature-branch
 ```
+comando para crear cargar la rama al repositorio remoto
+```sh
+git push --set-upstream origin feature-branch
+```
