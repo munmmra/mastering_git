@@ -65,3 +65,16 @@ comando para cargar el repositorio local al repositorio remoto
 ```sh
 git push -u origin main
 ```
+comando para crear una nueva rama del repositorio 
+```sh
+git  branch branch-name 
+```
+comando para crear cambiar de rama
+```sh
+git checkout branch-name
+```
+comando para crear una nueva rama del repositorio y cambiar 
+al mismo tiempo 
+```sh
+git checkout -b feature-branch
+```
